@@ -103,10 +103,17 @@ On desktop:
 - Look for the install icon (➕) in the browser address bar
 
 ---
+ ## 🚧 Prototype Note
 
+This project is currently developed as a working prototype focused on a single floor of the KE Block.
+The present implementation serves as a proof-of-concept for scalable indoor campus navigation, validating the core modules such as QR-based positioning, shortest-path navigation, turn-by-turn guidance, and offline-first PWA functionality.
+
+The system architecture has been designed to support future expansion into multi-floor and full-campus navigation across multiple blocks.
+
+---
 ## 👨‍💻 Author
 
-**Hariprasad**  
+**Hariprasad Sunilkumar**  
 Rajagiri College of Engineering & Technology  
 © 2025 — All rights reserved
 
@@ -116,3 +123,4 @@ Rajagiri College of Engineering & Technology
 
 This project is proprietary. See [LICENSE](LICENSE) for details.  
 Unauthorized copying, redistribution, or commercial use is prohibited.
+
