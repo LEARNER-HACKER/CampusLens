@@ -1,4 +1,4 @@
-# 🏫 CampusLens — KE Block Indoor Navigation
+# 🏫 CampusLens — Indoor Navigation
 
 <p align="center">
   <img src="icon-512.png" width="100" alt="CampusLens Logo" />
