@@ -1,10 +1,6 @@
 # 🏫 CampusLens — Indoor Navigation
 
 <p align="center">
-  <img src="icon-512.png" width="100" alt="CampusLens Logo" />
-</p>
-
-<p align="center">
   <b>A lightweight, offline-first PWA for navigating Rajagiri College's KE Block</b><br/>
   QR-based positioning · Turn-by-turn directions · Admin panel · Zero dependencies
 </p>
