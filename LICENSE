@@ -1,21 +1,32 @@
-MIT License
+Copyright (c) 2025 Hariprasad
+Rajagiri College of Engineering & Technology
 
-Copyright (c) 2026 HARIPRASAD SUNILKUMAR
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and its source code are the exclusive intellectual property of
+Hariprasad. The following restrictions apply:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PERMITTED USE
+   - You may view and study this code for personal, non-commercial, educational
+     purposes only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. PROHIBITED USE
+   - You may NOT copy, reproduce, or redistribute this software in whole or in
+     part without explicit written permission from the author.
+   - You may NOT use this software or any derivative of it for commercial
+     purposes.
+   - You may NOT claim authorship or ownership of this work or any part of it.
+   - You may NOT remove, alter, or obscure any copyright notices, watermarks,
+     or attribution embedded in this software.
+
+3. ATTRIBUTION
+   This project contains embedded authorship watermarks. Removal or tampering
+   with these watermarks constitutes a violation of this license and applicable
+   copyright law.
+
+4. NO WARRANTY
+   This software is provided "as is", without warranty of any kind, express or
+   implied. The author is not liable for any claim, damages, or other liability
+   arising from the use of this software.
+
+For permissions beyond the scope of this license, contact the author.
